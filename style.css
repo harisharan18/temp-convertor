@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.converter {
+  margin-top: 30px;
+  text-align: center;
+}
+
+input {
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-left: 10px;
+}
+
+p {
+  text-align: center;
+  margin-top: 20px;
+}
